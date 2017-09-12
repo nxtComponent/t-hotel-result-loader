@@ -11,6 +11,6 @@
     "web-component-tester": "Polymer/web-component-tester#^6.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
     "t-style-utils": "nxtComponent/t-style-utils.git",
-    "t-font-icons": "nxtComponent/t-font-icons.git"
+    "t-font-icons": "https://github.com/nxtComponent/t-font-icons.git"
   }
 }
